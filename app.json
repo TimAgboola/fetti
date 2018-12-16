@@ -1,25 +1,23 @@
 {
   "expo": {
-    "name": "fetti",
-    "description": "This project is really great.",
+    "name": "Fetti",
+    "description": "USC premiere party application, connecting students to USC's vibrant party scene",
     "slug": "fetti",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/fetti_logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/fetti_loading.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#111111"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+
     "ios": {
       "supportsTablet": true
     }
